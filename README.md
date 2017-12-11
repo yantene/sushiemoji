@@ -14,4 +14,6 @@ Slack や Mastodon のカスタム絵文字として登録したりしてお使�
 
 ## License
 
-Creative Commons Attribution 4.0
+Copyright 2017 yantene
+
+Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
