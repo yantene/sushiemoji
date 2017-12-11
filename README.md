@@ -12,6 +12,15 @@ Sushiemoji
 Unicode emoji の U+1F363 を好きなすし絵文字に置き換えたり、
 Slack や Mastodon のカスタム絵文字として登録したりしてお使いください。
 
+## Menu
+
+- まぐろ ![まぐろ](16x16/maguro.png)
+- びんちょうまぐろ ![びんちょうまぐろ](16x16/bincho_maguro.png)
+- サーモン ![サーモン](16x16/salmon.png)
+- はまち ![はまち](16x16/hamachi.png)
+- いか ![いか](16x16/ika.png)
+- たまご ![たまご](16x16/tamago.png)
+
 ## License
 
 Copyright 2017 yantene
