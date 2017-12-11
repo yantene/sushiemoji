@@ -15,12 +15,13 @@ Slack や Mastodon のカスタム絵文字として登録したりしてお使�
 ## Menu
 
 - まぐろ ![まぐろ](16x16/maguro.png)
-- びんちょうまぐろ ![びんちょうまぐろ](16x16/bincho_maguro.png)
-- サーモン ![サーモン](16x16/salmon.png)
-- いくら ![いくら](16x16/ikra.png)
-- はまち ![はまち](16x16/hamachi.png)
-- いか ![いか](16x16/ika.png)
-- たまご ![たまご](16x16/tamago.png)
+- びんちょうまぐろ ![びんちょうまぐろ](16x16/bincho_maguro.png)
+- ねぎとろ ![ねぎとろ](16x16/negitoro.png)
+- サーモン ![サーモン](16x16/salmon.png)
+- いくら ![いくら](16x16/ikra.png)
+- はまち ![はまち](16x16/hamachi.png)
+- いか ![いか](16x16/ika.png)
+- たまご ![たまご](16x16/tamago.png)
 
 ## License
 
