@@ -34,6 +34,8 @@ Slack や Mastodon のカスタム絵文字として登録したりしてお使�
 
 ![はまち](72x72/hamachi.png) はまち ([16x16](16x16/hamachi.png) [36x36](36x36/hamachi.png) [72x72](72x72/hamachi.png) [256x256](256x256/hamachi.png) [SVG](svg/hamachi.svg))
 
+![えび](72x72/ebi.png) えび ([16x16](16x16/ebi.png) [36x36](36x36/ebi.png) [72x72](72x72/ebi.png) [256x256](256x256/ebi.png) [SVG](svg/ebi.svg))
+
 ![いか](72x72/ika.png) いか ([16x16](16x16/ika.png) [36x36](36x36/ika.png) [72x72](72x72/ika.png) [256x256](256x256/ika.png) [SVG](svg/ika.svg))
 
 ![たまご](72x72/tamago.png) たまご ([16x16](16x16/tamago.png) [36x36](36x36/tamago.png) [72x72](72x72/tamago.png) [256x256](256x256/tamago.png) [SVG](svg/tamago.svg))
