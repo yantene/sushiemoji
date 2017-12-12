@@ -15,7 +15,7 @@ Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 ## Usage
 
-Unicode emoji の U+1F363 を好きなすし絵文字に置き換えたり、
+Unicode emoji の `U+1F363` を好きなすし絵文字に置き換えたり、
 Slack や Mastodon のカスタム絵文字として登録したりしてお使いください。
 
 ## Menu
