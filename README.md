@@ -22,6 +22,8 @@ Slack や Mastodon のカスタム絵文字として登録したりしてお使�
 
 ![まぐろ](72x72/maguro.png) まぐろ ([16x16](16x16/maguro.png) [36x36](36x36/maguro.png) [72x72](72x72/maguro.png) [256x256](256x256/maguro.png) [SVG](svg/maguro.svg))
 
+![漬けまぐろ](72x72/zukemaguro.png) 漬けまぐろ ([16x16](16x16/zukemaguro.png) [36x36](36x36/zukemaguro.png) [72x72](72x72/zukemaguro.png) [256x256](256x256/zukemaguro.png) [SVG](svg/zukemaguro.svg))
+
 ![びんとろ](72x72/bintoro.png) びんとろ ([16x16](16x16/bintoro.png) [36x36](36x36/bintoro.png) [72x72](72x72/bintoro.png) [256x256](256x256/bintoro.png) [SVG](svg/bintoro.svg))
 
 ![ねぎとろ](72x72/negitoro.png) ねぎとろ ([16x16](16x16/negitoro.png) [36x36](36x36/negitoro.png) [72x72](72x72/negitoro.svg) [256x256](256x256/negitoro.png) [SVG](svg/negitoro.png))
