@@ -20,16 +20,16 @@ Slack や Mastodon のカスタム絵文字として登録したりしてお使�
 
 ## Menu
 
-![まぐろ](72x72/maguro.png) まぐろ ([16x16](16x16/maguro.png) [36x36](36x36/maguro.png) [72x72](72x72/maguro.png) [256x256](256x256/maguro.png) [SVG](svg/maguro.png))
+![まぐろ](72x72/maguro.png) まぐろ ([16x16](16x16/maguro.png) [36x36](36x36/maguro.png) [72x72](72x72/maguro.png) [256x256](256x256/maguro.png) [SVG](svg/maguro.svg))
 
-![びんちょうまぐろ](72x72/bincho_maguro.png) びんちょうまぐろ ([16x16](16x16/bincho_maguro.png) [36x36](36x36/bincho_maguro.png) [72x72](72x72/bincho_maguro.png) [256x256](256x256/bincho_maguro.png) [SVG](svg/bincho_maguro.png))
+![びんちょうまぐろ](72x72/bincho_maguro.png) びんちょうまぐろ ([16x16](16x16/bincho_maguro.png) [36x36](36x36/bincho_maguro.png) [72x72](72x72/bincho_maguro.png) [256x256](256x256/bincho_maguro.png) [SVG](svg/bincho_maguro.svg))
 
-![ねぎとろ](72x72/negitoro.png) ねぎとろ ([16x16](16x16/negitoro.png) [36x36](36x36/negitoro.png) [72x72](72x72/negitoro.png) [256x256](256x256/negitoro.png) [SVG](svg/negitoro.png))
+![ねぎとろ](72x72/negitoro.png) ねぎとろ ([16x16](16x16/negitoro.png) [36x36](36x36/negitoro.png) [72x72](72x72/negitoro.svg) [256x256](256x256/negitoro.png) [SVG](svg/negitoro.png))
 
-![サーモン](72x72/salmon.png) サーモン ([16x16](16x16/salmon.png) [36x36](36x36/salmon.png) [72x72](72x72/salmon.png) [256x256](256x256/salmon.png) [SVG](svg/salmon.png))
+![サーモン](72x72/salmon.png) サーモン ([16x16](16x16/salmon.png) [36x36](36x36/salmon.png) [72x72](72x72/salmon.png) [256x256](256x256/salmon.png) [SVG](svg/salmon.svg))
 
-![いくら](72x72/ikra.png) いくら ([16x16](16x16/ikra.png) [36x36](36x36/ikra.png) [72x72](72x72/ikra.png) [256x256](256x256/ikra.png) [SVG](svg/ikra.png))
+![いくら](72x72/ikra.png) いくら ([16x16](16x16/ikra.png) [36x36](36x36/ikra.png) [72x72](72x72/ikra.png) [256x256](256x256/ikra.png) [SVG](svg/ikra.svg))
 
-![いか](72x72/ika.png) いか ([16x16](16x16/ika.png) [36x36](36x36/ika.png) [72x72](72x72/ika.png) [256x256](256x256/ika.png) [SVG](svg/ika.png))
+![いか](72x72/ika.png) いか ([16x16](16x16/ika.png) [36x36](36x36/ika.png) [72x72](72x72/ika.png) [256x256](256x256/ika.png) [SVG](svg/ika.svg))
 
-![たまご](72x72/tamago.png) たまご ([16x16](16x16/tamago.png) [36x36](36x36/tamago.png) [72x72](72x72/tamago.png) [256x256](256x256/tamago.png) [SVG](svg/tamago.png))
+![たまご](72x72/tamago.png) たまご ([16x16](16x16/tamago.png) [36x36](36x36/tamago.png) [72x72](72x72/tamago.png) [256x256](256x256/tamago.png) [SVG](svg/tamago.svg))
