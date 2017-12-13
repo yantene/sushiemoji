@@ -26,7 +26,7 @@ Slack や Mastodon のカスタム絵文字として登録したりしてお使�
 
 ![びんとろ](72x72/bintoro.png) びんとろ ([16x16](16x16/bintoro.png) [36x36](36x36/bintoro.png) [72x72](72x72/bintoro.png) [256x256](256x256/bintoro.png) [SVG](svg/bintoro.svg))
 
-![ねぎとろ](72x72/negitoro.png) ねぎとろ ([16x16](16x16/negitoro.png) [36x36](36x36/negitoro.png) [72x72](72x72/negitoro.svg) [256x256](256x256/negitoro.png) [SVG](svg/negitoro.png))
+![ねぎとろ](72x72/negitoro.png) ねぎとろ ([16x16](16x16/negitoro.png) [36x36](36x36/negitoro.png) [72x72](72x72/negitoro.png) [256x256](256x256/negitoro.png) [SVG](svg/negitoro.svg))
 
 ![サーモン](72x72/salmon.png) サーモン ([16x16](16x16/salmon.png) [36x36](36x36/salmon.png) [72x72](72x72/salmon.png) [256x256](256x256/salmon.png) [SVG](svg/salmon.svg))
 
