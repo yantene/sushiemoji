@@ -38,4 +38,6 @@ Slack や Mastodon のカスタム絵文字として登録したりしてお使�
 
 ![いか](72x72/ika.png) いか ([16x16](16x16/ika.png) [36x36](36x36/ika.png) [72x72](72x72/ika.png) [256x256](256x256/ika.png) [SVG](svg/ika.svg))
 
+![えび天](72x72/ebiten.png) えび天 ([16x16](16x16/ebiten.png) [36x36](36x36/ebiten.png) [72x72](72x72/ebiten.png) [256x256](256x256/ebiten.png) [SVG](svg/ebiten.svg))
+
 ![たまご](72x72/tamago.png) たまご ([16x16](16x16/tamago.png) [36x36](36x36/tamago.png) [72x72](72x72/tamago.png) [256x256](256x256/tamago.png) [SVG](svg/tamago.svg))
